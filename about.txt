@@ -1,0 +1,12 @@
+Criar um estudante com as informações de (
+    nome,
+    idade,
+    cpf,
+    data de nascimento,
+    sexo
+)
+
+-- O estudante deve ser capaz de se matricular em cursos.
+-- para isso crie uma propriedade na classe de Student chamado studentCourses, que será um array de StudentCourse
+-- Crie a entidade StudentCourse que terá id_student, hours, Course
+-- Crie a entidade Course com as propriedades de um curso (ai tu decide o que tu quer q o curso tenha)
